@@ -8,6 +8,7 @@ Console.WriteLine("Hello, World!");
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using StudentEnrollment.Models;
+using Student.Models;
 
 namespace StudentEnrollment.Controllers
 {
